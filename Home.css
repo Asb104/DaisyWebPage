@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inria+Serif&display=swap');
+
+body{
+	background: rgb(204, 204, 255);
+}
+td{
+	width: 20%;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	text-shadow: 6px 6px 6px #aaa;
+
+}
+
+h4{
+	font-family: 'Lobster', cursive;
+	text-shadow: 6px 6px 6px #aaa;
+}
+.HomeBody{
+	background: rgb(104, 189, 126);
+}
+.Header-Background{
+background-image: url("flowers.jfif");
+
+}
+button{
+	font-family: 'Inria Serif', serif;
+}
