@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+h1{
+	font-family: 'Lobster', cursive;
+	text-shadow: 6px 6px 6px #aaa;
+}
+
+h4{
+	font-family: 'Lobster', cursive;
+	text-shadow: 6px 6px 6px #aaa;
+}
+
+body{
+	background: rgb(204, 204, 255);
+}
+td{
+	width: 20%;
+}
+.HomeBody{
+	background-image: url("lampshade.jfif");
+}
+.Header-Background{
+background-image: url("flowers.jfif");
+
+}
